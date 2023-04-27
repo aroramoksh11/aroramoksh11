@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/aroramoksh11" target="blank"><img src="https://img.shields.io/twitter/follow/aroramoksh11?logo=twitter&style=for-the-badge" alt="aroramoksh11" /></a> </p>
 
-- I’m currently learning **Web Development**
+- I’m currently learning: **Web Development**
 
-- Ask me about **Board Programming**
+- Ask me about: **Board Programming**
 
-- How to reach me **aroramoksh11@gmail.com**
-
-- Interest **I find great satisfaction in engaging with the field of Machine Learning and Artificial Intelligence, both in terms of its development and exploration.**
+- Interest: **I find great satisfaction in engaging with the field of Machine Learning and Artificial Intelligence, both in terms of its                   development and exploration.**
+- How to reach me: **aroramoksh11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
